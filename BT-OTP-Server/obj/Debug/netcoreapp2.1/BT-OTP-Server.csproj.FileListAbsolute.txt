@@ -1,0 +1,17 @@
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.deps.json
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.runtimeconfig.json
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.runtimeconfig.dev.json
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.dll
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csprojAssemblyReference.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csproj.CoreCompileInputs.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorAssemblyInfo.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorAssemblyInfo.cs
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.AssemblyInfoInputs.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.AssemblyInfo.cs
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorTargetAssemblyInfo.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.pdb
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.dll
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.pdb
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.pdb
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csproj.CopyComplete
