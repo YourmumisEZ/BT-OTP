@@ -15,3 +15,22 @@ C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Deb
 C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.dll
 C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.pdb
 C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csproj.CopyComplete
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.deps.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.runtimeconfig.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.runtimeconfig.dev.json
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.dll
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-Server.pdb
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Solutions\BT-OTP\BT-OTP-Server\bin\Debug\netcoreapp2.1\BT-OTP-BL.pdb
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csprojAssemblyReference.cache
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorAssemblyInfo.cache
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorAssemblyInfo.cs
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.AssemblyInfoInputs.cache
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.AssemblyInfo.cs
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.RazorTargetAssemblyInfo.cache
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.csproj.CopyComplete
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.dll
+C:\Solutions\BT-OTP\BT-OTP-Server\obj\Debug\netcoreapp2.1\BT-OTP-Server.pdb

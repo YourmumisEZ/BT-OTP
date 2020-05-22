@@ -1,4 +1,5 @@
 ﻿using BT_OTP_BL.Interfaces;
+using BT_OTP_BL.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BT_OTP_Server.Controllers
@@ -15,9 +16,10 @@ namespace BT_OTP_Server.Controllers
         }
 
         [HttpGet]
-        public ActionResult<string> Get(string userId)
+        public ActionResult<OTPModel> Get(string userId)
         {
-           return otpManager.GenerateCode(userId);
+            var result = otpManager.GenerateCode(userId);
+            return result;
         }
     }
 }
